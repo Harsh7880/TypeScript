@@ -32,14 +32,7 @@ const harsh : Admin = {dbId: 234, email: "h@h.com",
 }
 
 harsh.email = "Hk@h.com"
-// harsh.dbId = 124
+
 harsh.goggleId = "jaowsm862hso";
-
-
-
-
-
-
-
 
 export {}
