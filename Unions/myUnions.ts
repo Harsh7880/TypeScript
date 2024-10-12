@@ -43,3 +43,5 @@ const data2: (string | number | boolean)[] = ["1","2",3,"4",true];
 let seatAllotment: "aisle" | "midle" | "window"
 seatAllotment = "aisle";
 // seatAllotment = "crew" not allowed 
+
+export {}
